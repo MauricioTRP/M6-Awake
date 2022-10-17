@@ -9,3 +9,8 @@ Para ejecutar debe ingresar a la raíz del proyecto y ejecutar
 ```
 ruby identificador_3b/init.rb
 ```
+## Commit 2 - Ejercicio 2
+Para ejecutar el ejercicio debe ejecutar
+```
+ruby identificador_3b/init.rb
+```
