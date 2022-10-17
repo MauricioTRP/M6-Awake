@@ -1,0 +1,19 @@
+3bs,Té Dharamsala, caja, 1500 CLP, 0,Lencería
+3bs,Cerveza tibetana Barley, lata, 300 USD, 5,Abarrotes
+3bs,Sirope de regaliz, Tarro, 10 USD, 5, Comistrajos
+3bs,Especias Cajun del chef Anton, Sobre, 500 CLP, 5,Mermeladas
+3bs,Mezcla Gumbo del chef Anton, Lata, 2500 CLP, 5,Panadería
+3bs,Mermelada de grosellas de la abuela, Tarro, 950 USD, 5,Carnicería
+3bs,Peras secas orgánicas del tío Bob, Bolsa, 950 CLP, 5,Electrónica
+3bs,Salsa de arándanos Northwoods, Sobre, 4500 CLP, 5,Pop Lolíta
+3bs,Buey Mishi Kobe, Bandeja, 10000 CLP, 5,Electrón
+3bs,Pez espada, Granel, 90 USD, 5,Abarotes
+3bs,Queso Cabrales, Pieza, 30 USD, 5,Lencería
+3bs,Queso Manchego La Pastora, Pieza, 10000 CLP, 5,Deporrtes
+3bs,Algas Konbu, Sobre, 500 CLP, 5,Deporrtes
+3bs,Cuajada de judías, Caja, 1200 CLP, 5,Pop Lolíta
+CLA1,NOM1,UNI1,150 USD,0,CAT1
+cla2,nom2,uni2,600 CLP,0,cat2
+015,Teclado,caja,35000 CLP,0,Electrón
+015,Mouse,caja,5 USD,0,Electrón
+015,nuevo producto,nueva unidad,1500 CLP,0,nueva categoria

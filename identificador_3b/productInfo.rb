@@ -22,7 +22,7 @@ end
 # Defines price with taxes
 def tax_price(array_products)
   array_products.map do |product|
-    iva_price = product[3]*1.19
+    iva_price = product[3] * 1.19
     product.append(iva_price)
   end
   array_products
