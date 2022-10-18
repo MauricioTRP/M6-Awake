@@ -1,19 +1,15 @@
-3bs,Té Dharamsala, caja, 1500 CLP, 0,Lencería
-3bs,Cerveza tibetana Barley, lata, 300 USD, 5,Abarrotes
-3bs,Sirope de regaliz, Tarro, 10 USD, 5, Comistrajos
-3bs,Especias Cajun del chef Anton, Sobre, 500 CLP, 5,Mermeladas
-3bs,Mezcla Gumbo del chef Anton, Lata, 2500 CLP, 5,Panadería
-3bs,Mermelada de grosellas de la abuela, Tarro, 950 USD, 5,Carnicería
-3bs,Peras secas orgánicas del tío Bob, Bolsa, 950 CLP, 5,Electrónica
-3bs,Salsa de arándanos Northwoods, Sobre, 4500 CLP, 5,Pop Lolíta
-3bs,Buey Mishi Kobe, Bandeja, 10000 CLP, 5,Electrón
-3bs,Pez espada, Granel, 90 USD, 5,Abarotes
-3bs,Queso Cabrales, Pieza, 30 USD, 5,Lencería
-3bs,Queso Manchego La Pastora, Pieza, 10000 CLP, 5,Deporrtes
-3bs,Algas Konbu, Sobre, 500 CLP, 5,Deporrtes
-3bs,Cuajada de judías, Caja, 1200 CLP, 5,Pop Lolíta
-CLA1,NOM1,UNI1,150 USD,0,CAT1
-cla2,nom2,uni2,600 CLP,0,cat2
-015,Teclado,caja,35000 CLP,0,Electrón
-015,Mouse,caja,5 USD,0,Electrón
-015,nuevo producto,nueva unidad,1500 CLP,0,nueva categoria
+1TÉD3BS,Té Dharamsala, caja, 1500 CLP, 0,Lencería
+2CER3BS,Cerveza tibetana Barley, lata, 300 USD, 5,Abarrotes
+3SIR3BS,Sirope de regaliz, Tarro, 10 USD, 5, Comistrajos
+4ESP3BS,Especias Cajun del chef Anton, Sobre, 500 CLP, 5,Mermeladas
+5MEZ3BS,Mezcla Gumbo del chef Anton, Lata, 2500 CLP, 5,Panadería
+6MER3BS,Mermelada de grosellas de la abuela, Tarro, 950 USD, 5,Carnicería
+7PER3BS,Peras secas orgánicas del tío Bob, Bolsa, 950 CLP, 5,Electrónica
+8SAL3BS,Salsa de arándanos Northwoods, Sobre, 4500 CLP, 5,Pop Lolíta
+8BUE3BS,Buey Mishi Kobe, Bandeja, 10000 CLP, 5,Electrón
+9PEZ3BS,Pez espada, Granel, 90 USD, 5,Abarotes
+10QUE3BS,Queso Cabrales, Pieza, 30 USD, 5,Lencería
+11QUE3BS,Queso Manchego La Pastora, Pieza, 10000 CLP, 5,Deporrtes
+12ALG3BS,Algas Konbu, Sobre, 500 CLP, 5,Deporrtes
+13CUA3BS,Cuajada de judías, Caja, 1200 CLP, 5,Pop Lolíta
+14COM3BS,Computaurra,Unidaurra,500 USD,0,Electrón
