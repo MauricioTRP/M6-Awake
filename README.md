@@ -37,3 +37,33 @@ producto = {
 array_producto = [hash_producto1, ..., hash_producton]
 ```
 
+## Commit 5 - Ejercicio 5
+El ejercicio 5 se encuentra en la rama `modulo6/ejercicio5`
+
+Se refactorizan los métodos para definir la clave del producto, se arregla bug en conteo de productos
+
+## Commit 6 - Ejercicio 6
+El ejercicio 6 se encuentra en la rama `modulo6/ejercicio6`
+
+Se crea un nuevo archivo para consumir la API pública -> [mindicador.cl](mindicador.cl)
+
+### Modificaciones
+El API mindicador.cl tiene los certificados SSL vencidos, por lo que es necesario utilizar el método Request del módulo RestClient pasando un hash como parámetro de función
+
+Explicación más detallada en documentación GitHub de [RestClient](https://github.com/rest-client/rest-client/blob/master/lib/restclient.rb#L65)
+
+En vez de (Método abreviado)
+```
+RestClient.get(url)
+```
+Se usa
+```
+RestClient::Request.execute(url: url, method: :get, verify_ssl: false)
+```
+
+Para no solicitar la verificación del certificado SSL
+
+Para consultar las series se debe ejecutar: 
+```
+ruby api.rb
+```
