@@ -67,3 +67,18 @@ Para consultar las series se debe ejecutar:
 ```
 ruby api.rb
 ```
+
+## Commit 7 - Ejercicio 7
+
+Se crea carpeta con archivos/clases `Brand`, `Category`, `Product` y `DBHandler`(Creado por necesidad de manupulación de texto)
+
+``` 
+Brand < Product # Brand hereda de Product
+Category < Product # Category hereda de Product
+Product < DBHandler # Product hereda de DBHandler
+``` 
+
+La clase `DBHandler` tiene los métodos de lectoescritura a un archivo de texto
+### Funcionalidad Product
+
+La clase Product genera un nuevo producto `product = Product.new(name, unit, brand, category, price) => # product key, name, unit, brand, category, price, final_price`
