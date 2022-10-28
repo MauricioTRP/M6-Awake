@@ -1,7 +1,7 @@
-require './class/Brand'
-require './class/Category'
 require './class/Product'
+require './class/Brand'
 require './class/DBHandler'
+require './class/Category'
 
 #### Funcionalidad en archivos txt
 # alta marca
@@ -23,4 +23,5 @@ require './class/DBHandler'
 # Pruebas DBHandler
 
 # Pruebas Brand
-# marca = Brand('Adiodas')
+marca = Brand.new('Adiodas')
+

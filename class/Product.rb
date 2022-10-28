@@ -28,6 +28,12 @@ class Product < DBHandler
   end
 
   def alta_product
-    @db.write("#{key},#{name},#{unit},#{brand},#{category},#{price},#{final_price}\n")
+    @db.write(
+      "#{key},#{name},#{unit},#{brand},#{category},#{price},#{final_price}\n"
+    )
+  end
+
+  def alta_brand
+    Brand.new("Adiodas")
   end
 end

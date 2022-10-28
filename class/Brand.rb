@@ -1,4 +1,4 @@
-require "#{Dir.pwd}/class/Product"
+# require "#{Dir.pwd}/class/Product"
 
 class Brand < Product
   attr_reader :brand_key, :a_brands, :q_brands
