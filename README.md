@@ -78,7 +78,7 @@ Category < Product # Category hereda de Product
 Product < DBHandler # Product hereda de DBHandler
 ``` 
 
-La clase `DBHandler` tiene los métodos de lectoescritura a un archivo de texto
+La clase `DBHandler` tiene los métodos de lectoescritura a un archivo de texto, las cuales son heredadas por las clases `Brand`, `Category`, `Product` 
 ### Funcionalidad Product
 
 La clase Product genera un nuevo producto `product = Product.new(name, unit, brand, category, price) => # product key, name, unit, brand, category, price, final_price`
