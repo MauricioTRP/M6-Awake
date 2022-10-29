@@ -1,6 +1,8 @@
 # Sprint-M6
 
-Se encuentra acá los trabajos pendientes del módulo 6
+Se encuentra acá los trabajos del módulo 6
+
+Todo se encuentra en el [repositorio este GIT](https://github.com/MauricioTRP/M6-Awake)
 
 La versión de ruby usada en estos ejercicios es: `ruby 3.1.2p20`
 
