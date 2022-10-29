@@ -1,1 +1,3 @@
-id_marca,nombre_marca
+id_marca,nombre_marca1
+1ADI3BS,Adiodas
+2ADI3BS,Adidas

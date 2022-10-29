@@ -1,6 +1,0 @@
-Zapatillas,Pat,Adiodas,Zapatos,0
-Zapatillas,Pat,Adiodas,Zapatos,0
-ZAP3BS,Zapatillas,Pat,Adiodas,Zapatos,0,0.0
-ZAP3BS,Zapatillas,Pat,Adiodas,Zapatos,0,0.0
-4ZAP3BS,Zapatillas,Pat,Adiodas,Zapatos,0,0.0
-6ZAP3BS,Zapatillas,Pat,Adiodas,Zapatos,0,0.0

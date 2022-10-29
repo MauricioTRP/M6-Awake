@@ -11,7 +11,7 @@ class Product < DBHandler
     @category = category
     @price = price
     @final_price = set_final_price
-    @db = DBHandler.new
+    @db = DBHandler.new('inventory')
     @key = set_key
   end
 
@@ -29,11 +29,7 @@ class Product < DBHandler
 
   def alta_product
     @db.write(
-      "#{key},#{name},#{unit},#{brand},#{category},#{price},#{final_price}\n"
+      "#{key},#{name},#{unit},#{brand},#{category},#{price},#{final_price}"
     )
-  end
-
-  def alta_brand
-    Brand.new("Adiodas")
   end
 end
