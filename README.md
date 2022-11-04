@@ -84,3 +84,32 @@ La clase `DBHandler` tiene los métodos de lectoescritura a un archivo de texto,
 ### Funcionalidad Product
 
 La clase Product genera un nuevo producto `product = Product.new(name, unit, brand, category, price) => # product key, name, unit, brand, category, price, final_price`
+
+
+## Commit 8 - Individual 1
+
+Se encuentra en la rama `mauro/individual1` archivo `ejercicio 1.rb`
+
+## Commit 9 - Individual 2
+
+Se encuentra en la rama `mauro/individual2` archivo `ejercicio 2.rb`
+
+## Commit 10 - Individual 3
+
+Se encuentra en la rama `mauro/individual3` archivo `ejercicio 3.rb`
+
+## Commit 11 - Individual 4
+
+Se encuentra en la rama `mauro/individual4` archivo `ejercicio 4.rb`
+
+## Commit 12 - Individual 5
+
+Se encuentra en la rama `mauro/individual5` archivo `romanos.rb`
+
+## Commit 13 - Individual 6
+
+Se encuentra en la rama `mauro/individual6` archivo `ejercicio6.rb`
+
+## Commit 14 - Individual 7
+
+Se encuentra en la rama `mauro/individual7` archivo `clases.rb`
