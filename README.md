@@ -105,3 +105,7 @@ Se encuentra en la rama `mauro/individual4` archivo `ejercicio 4.rb`
 ## Commit 12 - Individual 5
 
 Se encuentra en la rama `mauro/individual5` archivo `romanos.rb`
+
+## Commit 13 - Individual 6
+
+Se encuentra en la rama `mauro/individual6` archivo `ejercicio6.rb`
