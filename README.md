@@ -92,4 +92,16 @@ Se encuentra en la rama `mauro/individual1` archivo `ejercicio 1.rb`
 
 ## Commit 9 - Individual 2
 
-Se encuentra en la rama `mauro/individual2` archivo `ejercicio 1.rb`
+Se encuentra en la rama `mauro/individual2` archivo `ejercicio 2.rb`
+
+## Commit 10 - Individual 3
+
+Se encuentra en la rama `mauro/individual3` archivo `ejercicio 3.rb`
+
+## Commit 11 - Individual 4
+
+Se encuentra en la rama `mauro/individual4` archivo `ejercicio 4.rb`
+
+## Commit 12 - Individual 5
+
+Se encuentra en la rama `mauro/individual5` archivo `romanos.rb`
